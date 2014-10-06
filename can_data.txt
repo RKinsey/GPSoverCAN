@@ -1,0 +1,11 @@
+Can_low
+Pk-pk is 1.3V
+Min is 1.26V
+Max is 2.56V
+Freq is 14.71kHz
+
+Can_high
+Pk-pk is 1.3V
+Min is 2.4V
+Max is 3.8V
+Freq is 14.71kHz
