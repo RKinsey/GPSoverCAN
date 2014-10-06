@@ -1,6 +1,6 @@
 GPSoverCAN
 ==========
 
-Arduino code for using a Venus GPS module &amp; an Arduino to transmit over CAN
+Arduino code for using a Venus GPS module & an Arduino to transmit over CAN
 
-NOTE: We're not sure if this works. Our CAN shield is making some funny outputs (oscilliscope waveform doesn't look like CAN is supposed to). We think the chip on the shield is busted. Will post code and updates in the morning.
+NOTE: We're not sure if this actually works. Our CAN shield is making some funny outputs (see the jpegs in the repository). We think the chip on the shield is busted, but we can't tell until we get another device that can take CAN inputs.
